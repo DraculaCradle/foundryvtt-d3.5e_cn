@@ -12,7 +12,7 @@ FoundryVTT DND3.5E 中文系统
 
 1.安装Babele（ Manifest: https://gitlab.com/riccisi/foundry-vtt-babele/raw/master/module/module.json ）
 2.在设置-MOD管理中勾选开启Babele
-3.配置设定-MOD设定-Babele中指定路径（modules/dnd5e_cn/compendium）点击左边的Select，保存更改
+3.配置设定-MOD设定-Babele中指定路径（modules/d3.5e_cn/compendium）点击左边的Select，保存更改
 
 手动安装方法
 
