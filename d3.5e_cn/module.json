@@ -21,7 +21,7 @@
     ],
     
     "url": "https://github.com/DraculaCradle/foundryvtt-d3.5e_cn",
-	"manifest": "https://github.com/DraculaCradle/foundryvtt-d3.5e_cn/d3.5e_cn/module.json",
+	"manifest": "https://raw.githubusercontent.com/DraculaCradle/foundryvtt-d3.5e_cn/master/d3.5e_cn/module.json",
 	"download": "https://github.com/DraculaCradle/foundryvtt-d3.5e_cn/archive/master.zip"
   }
   
