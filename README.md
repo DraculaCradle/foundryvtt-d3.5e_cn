@@ -1,3 +1,5 @@
+FoundryVTT DND3.5E 中文系统
+
 本MOD为FVTT的DND3.5E系统加入了中文。
 使用说明：
 
