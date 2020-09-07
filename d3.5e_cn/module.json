@@ -1,0 +1,27 @@
+{
+    "name": "d3.5e_cn",
+    "title": "DND3.5E中文游戏系统",
+    "description": "为FVTT中的DND3.5E添加了中文。（适用于DND3.5Ev0.83.5版）",
+    "version": "0.1.0",
+    "minimumCoreVersion" : "0.6.6",
+    "author": "RedMagic",
+        
+    "scripts": [
+    	"./babele-register.js"
+    ],
+    "styles": [],
+    "packs": [],
+    
+    "languages": [
+      {
+        "lang": "cn",
+        "name": "简体中文",
+        "path": "cn.json"
+      }
+    ],
+    
+    "url": "https://gitlab.com/xtlcme/foundry-vtt-dnd5e-chn",
+	"manifest": "https://gitlab.com/xtlcme/foundry-vtt-dnd5e-chn/raw/master/dnd5e_cn/module.json",
+	"download": "https://gitlab.com/xtlcme/foundry-vtt-dnd5e-chn/-/jobs/artifacts/master/raw/dnd5e_cn.zip?job=build"
+  }
+  
