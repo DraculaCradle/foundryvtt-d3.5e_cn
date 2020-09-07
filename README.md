@@ -3,7 +3,7 @@ FoundryVTT DND3.5E 中文系统
 本MOD为FVTT的DND3.5E系统加入了中文。
 使用说明：
 
-首先在安装界面MOD安装中，安装本MOD。（ Manifest: https://github.com/DraculaCradle/foundryvtt-d3.5e_cn/d3.5e_cn/module.json ）
+首先在安装界面MOD安装中，安装本MOD。（ Manifest: https://raw.githubusercontent.com/DraculaCradle/foundryvtt-d3.5e_cn/master/d3.5e_cn/module.json ）
 进入游戏世界（DND3.5E），在【设置-管理MOD】中勾选本MOD。
 在【设置-语言】中选择【中文】。
 重新载入
